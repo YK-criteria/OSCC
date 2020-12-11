@@ -1,0 +1,13 @@
+●feature2bat.bat
+特徴抽出を行う
+[使い方]
+　feature2bat.iniに、
+　[exe] 実行ファイル名
+　[folder] 特徴抽出するファイルのフォルダ名
+　[output] 出力させるフォルダ名
+　を入力しておく
+　FeatureBat.exe featurebat2.iniと入力するとfeaturebat2.batが得られる
+　featurebat2.bat　と入力
+
+
+●
