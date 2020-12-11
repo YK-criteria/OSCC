@@ -1,0 +1,4 @@
+true classname[ 1Œ^ ]result classname[ 1Œ^ ]
+1Œ^ true[      1 ]  search[      1 ]  compatibility[      1 ]  precision[ 1.000000 ]  recall[ 1.000000 ]  F-Measure[ 1.000000 ]  
+average_f_measure1
+
