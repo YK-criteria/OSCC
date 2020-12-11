@@ -1,0 +1,4 @@
+true classname[ 4cå^ ]result classname[ 4cå^ ]
+4cå^ true[      1 ]  search[      1 ]  compatibility[      1 ]  precision[ 1.000000 ]  recall[ 1.000000 ]  F-Measure[ 1.000000 ]  
+average_f_measure1
+
