@@ -1,0 +1,4 @@
+true classname[ 4c ]result classname[ 3 ]
+4c true[      1 ]  search[      1 ]  compatibility[      0 ]  precision[ -1.#IND00 ]  recall[ 0.000000 ]  F-Measure[ -1.#IND00 ]  
+average_f_measure-1.#IND
+
