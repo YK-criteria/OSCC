@@ -12,6 +12,6 @@ min_subset_size     2
 min_informationgain 0.01 
 split_type          axis 
 select_type         multiple 
-train_filename      ..\train\1Œ^\1-21_B.pbm.txt 
-test_filename       ..\test\1Œ^\1-21_B.pbm.txt 
-result_filename     ..\result\1Œ^\1-21_B.pbm.txt 
+train_filename      ..\train\1Å’^\1-21_B.pbm.txt 
+test_filename       ..\test\1Å’^\1-21_B.pbm.txt 
+result_filename     ..\result\1Å’^\1-21_B.pbm.txt 
