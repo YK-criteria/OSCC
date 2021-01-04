@@ -1,0 +1,43 @@
+﻿  area.cpp
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\area.cpp(4,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\area.cpp(12,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\area.cpp(41,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\area.cpp(142,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  baseferature.cpp
+  border.cpp
+  borderlist.cpp
+  curvature.cpp
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\curvature.cpp(709,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\curvature.cpp(723,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\curvature.cpp(724,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\curvature.cpp(725,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\curvature.cpp(726,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  direction.cpp
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(471,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(472,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(475,20): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(479,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(480,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(487,20): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(491,99): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(555,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(569,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(570,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(571,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\direction.cpp(572,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  extractor.cpp
+  funicular.cpp
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\funicular.cpp(4,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\funicular.cpp(12,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\funicular.cpp(41,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+  jaggy.cpp
+  length.cpp
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\length.cpp(101,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  main.cpp
+  pbm.cpp
+  point.cpp
+  ppm.cpp
+  regionnum.cpp
+C:\temp\OSCC\codes\exe\FeatureExtraction10\FeatureExtraction10\regionnum.cpp(152,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  FeatureExtraction10.vcxproj -> C:\temp\OSCC\codes\exe\FeatureExtraction10\Debug\FeatureExtraction10.exe
